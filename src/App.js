@@ -35,6 +35,7 @@ function App() {
           <SearchBar />
           <Results />
           <Paginator />
+          <Box sx={{display: "flex", justifyContent: "center", color: "#eeeff2"}}>Source: https://github.com/bogk9/codibly-task-source/</Box>
         </Box>
       </ThemeProvider>
     </Provider>

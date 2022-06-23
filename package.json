@@ -1,7 +1,7 @@
 {
   "name": "staz",
   "version": "0.1.0",
-  "homepage": "https://bogk9.github.io/codibly-exercise",
+  "homepage": "https://bogk9.github.io/codibly-task",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
